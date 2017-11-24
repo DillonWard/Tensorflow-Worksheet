@@ -51,4 +51,19 @@ conda install scipy
 pip install tensorflow-gpu
 
 ```
+## Keras
+### What is Keras?
+[Keras](https://keras.io/) is a neural networks programming framework written in Python that is used for simplifying of creating deep learning applicaitons. Rather than Keras providing all of the functionalities itself, it's ran on top of Tensorflow, CNTK, or Theano and adds a simplified interface.
 
+### What is Keras used for?
+Use Keras if you need a deep learning library that:
+
+* Allows for prototyping through a user friendly interface
+* Supports convolutional networks, recurrent networks, or a combination of both.
+* Runs seamlessly on CPU and GPU.
+
+## References
+[Wikipedia - Tensorflow](https://en.wikipedia.org/wiki/TensorFlow)
+[Tensorflow Tutorials](https://www.tensorflow.org/tutorials/)
+[Keras](https://keras.io/)
+[Lynda - What is Keras?](https://www.lynda.com/Google-TensorFlow-tutorials/What-Keras/601801/642171-4.html)

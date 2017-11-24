@@ -73,10 +73,26 @@ pip install keras
 [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)) is an open source distribution for Python and R programming languages, used for large-scale data processing, predictive analytics, and scientific computing, and aims to simplify package management and deployment. Anaconda aims to provide users with everything they need to get started with data science.
 
 ### Installation
-To download and install Anaconda, you must head over to the Anaconda [Installation Section](https://conda.io/docs/user-guide/install/index.html) on their website.
+To download and install Anaconda, head over to the Anaconda [Installation Section](https://conda.io/docs/user-guide/install/index.html) on their website.
 * [Anaconda for Windows](https://conda.io/docs/user-guide/install/windows.html)
 * [Anaconda for macOS](https://conda.io/docs/user-guide/install/macos.html)
 * [Anaconda for Linux](https://conda.io/docs/user-guide/install/linux.html)
+
+## [Worksheet](https://emerging-technologies.github.io/problems/tensorflow.html)
+### 1. Use Tensorflow to create model
+Use Tensorflow to create a model to predict the species of Iris from a flower’s sepal width, sepal length, petal width, and petal length.
+
+
+### 2. Split the data into training and testing
+Split the data set into a training set and a testing set. You should investigate the best way to do this, and list any online references used in your notebook. If you wish to, you can write some code to randomly separate the data on the fly.
+
+### 3. Train the model
+Use the testing set to train your model.
+
+### 4. Test the model
+Use the testing set to test your model, clearly calculating and displaying the error rate.
+
+#### [Solution](https://github.com/DillonWard/Tensorflow-Worksheet/blob/master/Tensorflow-Worksheet.ipynb)
 
 ## References
 * [Wikipedia - Tensorflow](https://en.wikipedia.org/wiki/TensorFlow)

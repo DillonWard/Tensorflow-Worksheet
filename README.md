@@ -62,8 +62,26 @@ Use Keras if you need a deep learning library that:
 * Supports convolutional networks, recurrent networks, or a combination of both.
 * Runs seamlessly on CPU and GPU.
 
+### Installation
+```
+pip install h5py # used for saving modules
+pip install keras
+```
+
+## Anaconda
+### What is Anaconda?
+[Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)) is an open source distribution for Python and R programming languages, used for large-scale data processing, predictive analytics, and scientific computing, and aims to simplify package management and deployment. Anaconda aims to provide users with everything they need to get started with data science.
+
+### Installation
+To download and install Anaconda, you must head over to the Anaconda [Installation Section](https://conda.io/docs/user-guide/install/index.html) on their website.
+* [Anaconda for Windows](https://conda.io/docs/user-guide/install/windows.html)
+* [Anaconda for macOS](https://conda.io/docs/user-guide/install/macos.html)
+* [Anaconda for Linux](https://conda.io/docs/user-guide/install/linux.html)
+
 ## References
-[Wikipedia - Tensorflow](https://en.wikipedia.org/wiki/TensorFlow)
-[Tensorflow Tutorials](https://www.tensorflow.org/tutorials/)
-[Keras](https://keras.io/)
-[Lynda - What is Keras?](https://www.lynda.com/Google-TensorFlow-tutorials/What-Keras/601801/642171-4.html)
+* [Wikipedia - Tensorflow](https://en.wikipedia.org/wiki/TensorFlow)
+* [Tensorflow Tutorials](https://www.tensorflow.org/tutorials/)
+* [Keras](https://keras.io/)
+* [Lynda - What is Keras?](https://www.lynda.com/Google-TensorFlow-tutorials/What-Keras/601801/642171-4.html)
+* [Anaconda](https://anaconda.org/)
+* [Anaconda Installation](https://anaconda.org/)
